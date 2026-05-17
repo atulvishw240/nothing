@@ -1,0 +1,23 @@
+{
+  "name": "nothing",
+  "version": "1.0.0",
+  "description": "Prints nothing",
+  "keywords": [
+    "nothing"
+  ],
+  "homepage": "https://github.com/atulvishw240/nothing#readme",
+  "bugs": {
+    "url": "https://github.com/atulvishw240/nothing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/atulvishw240/nothing.git"
+  },
+  "license": "ISC",
+  "author": "Atul Vishwakarma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
